@@ -1,0 +1,11 @@
+C:\Users\LENOVO\source\repos\BTL_HĐH\BTL_HĐH\obj\Debug\BTL_HĐH.csprojAssemblyReference.cache
+C:\Users\LENOVO\source\repos\BTL_HĐH\BTL_HĐH\obj\Debug\BTL_HĐH.Form1.resources
+C:\Users\LENOVO\source\repos\BTL_HĐH\BTL_HĐH\obj\Debug\BTL_HĐH.Properties.Resources.resources
+C:\Users\LENOVO\source\repos\BTL_HĐH\BTL_HĐH\obj\Debug\BTL_HĐH.csproj.GenerateResource.cache
+C:\Users\LENOVO\source\repos\BTL_HĐH\BTL_HĐH\obj\Debug\BTL_HĐH.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\BTL_HĐH\BTL_HĐH\bin\Debug\BTL_HĐH.exe.config
+C:\Users\LENOVO\source\repos\BTL_HĐH\BTL_HĐH\bin\Debug\BTL_HĐH.exe
+C:\Users\LENOVO\source\repos\BTL_HĐH\BTL_HĐH\bin\Debug\BTL_HĐH.pdb
+C:\Users\LENOVO\source\repos\BTL_HĐH\BTL_HĐH\obj\Debug\BTL_HĐH.exe
+C:\Users\LENOVO\source\repos\BTL_HĐH\BTL_HĐH\obj\Debug\BTL_HĐH.pdb
+C:\Users\LENOVO\source\repos\BTL_HĐH\BTL_HĐH\obj\Debug\BTL_HĐH.AddProcess.resources
