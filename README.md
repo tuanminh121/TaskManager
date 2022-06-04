@@ -1,2 +1,2 @@
 # TaskManager
-simualating the TaskManager in Window
+simulating the TaskManager in Window
